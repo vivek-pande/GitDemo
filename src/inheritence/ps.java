@@ -14,6 +14,10 @@ public class ps {
 	@BeforeMethod
 	public void before() {
 		System.out.println("i am from before method");
+		System.out.println("i am from before method");
+		System.out.println("i am from before method");
+		System.out.println("i am from before method");
+		System.out.println("i am from before method");
 	}
 	
 	
