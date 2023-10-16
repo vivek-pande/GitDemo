@@ -9,6 +9,13 @@ public class Ps1 extends ps {
 		System.out.println("hi");
 		System.out.println("heelo");
 		parent();
+		System.out.println("hi");
+		System.out.println("heelo");
+		System.out.println("heelo");
+		System.out.println("heelo");
+		System.out.println("heelo");
+		System.out.println("heelo");
+		System.out.println("heelo");
 	}
 
 	@Test
