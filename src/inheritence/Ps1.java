@@ -7,6 +7,7 @@ public class Ps1 extends ps {
 	@Test
 	public void testrun() {
 		System.out.println("hi");
+		System.out.println("heelo");
 		parent();
 	}
 
